@@ -1,2 +1,2 @@
-# kennedyai
-respiratory for my accounts
+# mr.kennedy
+my first repository 
